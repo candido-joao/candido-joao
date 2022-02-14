@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🔧 Ferramentas: <strong>RAD Studio, VsCode, Jenkins, SVN, Oracle SQL Developer, Postman, Jira/Atlassian.</strong>
+  🔧 Ferramentas: <strong>RAD Studio, VsCode, IntelliJ, Jenkins, SVN, Oracle SQL Developer, Postman, Jira/Atlassian.</strong>
 </p>
 
 <p align="left">
