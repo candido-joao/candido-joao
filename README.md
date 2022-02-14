@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Delphi, HTML, CSS, JavaScript, Java, Flutter/Dart.</strong>
+  💻 Linguagens: <strong>Delphi, HTML, CSS, JavaScript, Java, Flutter, Dart.</strong>
 </p>
 
 <p align="left">
