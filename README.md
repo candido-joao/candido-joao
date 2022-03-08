@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/candido_jao/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
   
-  <a href="g.dev/Candido-Joao" alt="Google Developers">
+  <a href="https://developers.google.com/profile/u/Candido-Joao" alt="Google Developers">
   <img src="https://img.shields.io/badge/-Google%20Developers-red?style=flat-square&labelColor=red&logo=google&logoColor=white"/></a>
 </p>  
 
