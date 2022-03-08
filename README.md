@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Delphi, HTML, CSS, JavaScript, Java, Flutter, Dart.</strong>
+  💻 Linguagens: <strong>Delphi, HTML, CSS, JavaScript, Java, Flutter, Dart, Kotlin.</strong>
 </p>
 
 <p align="left">
-  🔧 Ferramentas: <strong>RAD Studio, VsCode, IntelliJ, Jenkins, SVN, Oracle SQL Developer, Postman, Jira/Atlassian.</strong>
+  🔧 Ferramentas: <strong>RAD Studio, VsCode, IntelliJ, Android Studio, Jenkins, SVN, Oracle SQL Developer, Postman, Jira/Atlassian.</strong>
 </p>
 
 <p align="left">
@@ -19,13 +19,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-stimer-candido-b4bba71b3/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://m.facebook.com/joao.candido.129" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
   <a href="https://www.instagram.com/candido_jao/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
+  
+  <a href="g.dev/Candido-Joao" alt="Google Developers">
+  <img src="https://img.shields.io/badge/-Google%20Developers-red?style=flat-square&labelColor=red&logo=google&logoColor=white"/></a>
 </p>  
 
 ## ⭐ Informações sobre meu GitHub
