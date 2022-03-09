@@ -33,14 +33,14 @@
 
 ## ⭐ Informações sobre meu GitHub
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/candido-joao">
     <img
       align="center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api?username=candido-joao&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/candido-joao">
     <img
       align="center"
       height="150em"
