@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, me chamo João Candido e sou <strong>Desenvolvedor FullStack</strong>.<br>
-  Atualmente trabalho na Viasoft programando sistemas ERP em Delphi, estou cursando Engenharia de Software na UNINTER.
+  Atualmente trabalho programando sistemas ERP em Delphi, estou cursando Engenharia de Software.
 </p>
 
 <p align="left">
