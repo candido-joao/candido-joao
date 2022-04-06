@@ -31,7 +31,12 @@
   <img src="https://img.shields.io/badge/-Google%20Developers-red?style=flat-square&labelColor=red&logo=google&logoColor=white"/></a>
 </p>  
 
-## ⭐ Informações sobre meu GitHub
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+🐱‍👤 A parte do meu trabalho, sou apaixonado por games e música. Nas horas vagas gosto de jogar com meus amigos, e as vezes programo games simples por diversão.
+(Quem sabe um dia eu publico alguns projetinhos aqui hehe)
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+
+## ⭐ Informações sobre meu GitHub 
 <p align="center">
   <a href="https://github.com/candido-joao">
     <img
