@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joão-candido-b4bba71b3/" alt="Linkedin">
+  <a href="www.linkedin.com/in/candido-joao" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a href="https://www.instagram.com/candido_jao/" alt="Instagram">
