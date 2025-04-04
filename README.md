@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo João Candido e sou <strong>Desenvolvedor FullStack</strong>.<br>
+  Olá, me chamo João Candido e sou <strong>Desenvolvedor Backend</strong>.<br>
   Atualmente trabalho programando sistemas ERP e PDV focado no varejo utilizando Powerbuilder(C#) e Java, sou formado em ADS pela Uninter.
 </p>
 
