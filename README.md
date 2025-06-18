@@ -2,15 +2,15 @@
 
 <p align="left"> 
   Olá, me chamo João Candido e sou <strong>Desenvolvedor Backend</strong>.<br>
-  Atualmente trabalho programando sistemas ERP e PDV focado no varejo utilizando Powerbuilder(C#) e Java, sou formado em ADS pela Uninter.
+  Atualmente trabalho programando sistemas ERP e PDV focado no varejo utilizando Powerbuilder e Java, sou formado em ADS pela Uninter.
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>Powerbuilder(C#), Java, Delphi, JavaScript, HTML, CSS, Flutter, Dart, Kotlin.</strong>
+  💻 Linguagens: <strong>Java, Delphi, JavaScript, HTML, CSS, Flutter, Dart, Kotlin.</strong>
 </p>
 
 <p align="left">
-  🔧 Ferramentas: <strong>PowerBuilder 22, PgAdmin, RAD Studio, VsCode, IntelliJ, Android Studio, Jenkins, SVN, Git, Fork, GitLab, Oracle SQL Developer, Postman, Jira/Atlassian.</strong>
+  🔧 Ferramentas: <strong>PgAdmin, RAD Studio, VsCode, IntelliJ, Android Studio, Jenkins, SVN, Git, Fork, GitLab, Oracle SQL Developer, Postman, Jira/Atlassian.</strong>
 </p>
 
 <p align="left">
